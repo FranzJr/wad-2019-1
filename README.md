@@ -1,2 +1,2 @@
-# wad-2019-1
-Web Development Course
+# wad-2018-2
+Web Applications Development course at Universidad Piloto de Colombia, Bogotá
